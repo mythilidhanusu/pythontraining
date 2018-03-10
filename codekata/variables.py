@@ -1,0 +1,11 @@
+a=20
+b=30+a
+c=10*a*b
+d=b/a
+e=a*b
+a%b
+print(a)
+print(b)
+print(c)
+print(d)
+print(a%b)
